@@ -12,3 +12,5 @@
 ## 실행
 
 `index.html`을 브라우저에서 열거나 아케이드 로비에서 **공책 낙서 지우기**를 선택합니다.
+
+규칙은 `logic.js`(화면 없이 Node 로 시험할 수 있다: `node test/logic.test.js`), 화면·입력은 `game.js`.
